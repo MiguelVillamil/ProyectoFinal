@@ -1,2 +1,2 @@
 # ProyectoFinal
-editando desde github
+editando desde GitHub
